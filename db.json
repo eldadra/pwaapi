@@ -1,0 +1,24 @@
+{
+  "products": [
+    {"id":1,"name":"Savanna fox","category":"Violet"},
+    {"id":2,"name":"Galapagos sea lion","category":"Fuscia"},
+    {"id":3,"name":"Common raccoon","category":"Maroon"},
+    {"id":4,"name":"Mule deer","category":"Crimson"},
+    {"id":5,"name":"Galapagos penguin","category":"Aquamarine"},
+    {"id":6,"name":"Brown antechinus","category":"Goldenrod"},
+    {"id":7,"name":"Cape cobra","category":"Puce"},
+    {"id":8,"name":"Elephant, asian","category":"Mauv"},
+    {"id":9,"name":"Avocet, pied","category":"Khaki"},
+    {"id":10,"name":"Lapwing, southern","category":"Indigo"},
+    {"id":11,"name":"African lion","category":"Violet"},
+    {"id":12,"name":"Lemur, lesser mouse","category":"Aquamarine"},
+    {"id":13,"name":"Common mynah","category":"Crimson"},
+    {"id":14,"name":"Springbuck","category":"Blue"},
+    {"id":15,"name":"Silver-backed fox","category":"Crimson"},
+    {"id":16,"name":"Kelp gull","category":"Mauv"},
+    {"id":17,"name":"Boa, columbian rainbow","category":"Turquoise"},
+    {"id":18,"name":"Boa, emerald green tree","category":"Red"},
+    {"id":19,"name":"Mule deer","category":"Red"},
+    {"id":20,"name":"Galapagos albatross","category":"Aquamarine"}
+  ]
+}
